@@ -3,13 +3,14 @@
   src: url('fonts/Usual-RegularWeb.eot');
   src: url('fonts/Usual-RegularWeb.eot?#iefix') format('embedded-opentype');
   src: url('fonts/Usual-RegularWeb.woff') format('woff');
+  src: url('fonts/Usual-Regular.otf') format('otf');
 }
 
 @@font-face {
   font-family: UsualBold;
   src: url('fonts/Usual-BoldWeb.eot');
   src: url('fonts/Usual-BoldWeb.eot?#iefix') format('embedded-opentype');
-  src: url('fonts/Usual-BoldWeb.woff') format('woff');
+  src: url('fonts/Usual-Bold.otf') format('otf');
 }
 
 body {
