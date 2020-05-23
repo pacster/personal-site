@@ -18,6 +18,12 @@ body {
   color: white;
 }
 
+.main {
+  padding-top: 20px;
+  width: 90%;
+  margin: 0 auto;
+}
+
 b {
   font-family: 'UsualBold';
 }
