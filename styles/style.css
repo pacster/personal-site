@@ -66,8 +66,12 @@ ul li{
   line-height: 2.5em;
 }
 
-.profile-pic img{
-  max-width: 100px;
+.profile-pic{
+  width: 100px;
+  height: 100px;
+  background-image: url('../styles/imgs/paco-martinez-profile-avatar-2x.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #shapes {margin-top: 30px;}
