@@ -28,7 +28,9 @@ b {
   font-family: 'UsualBold';
 }
 
-h1, h2, h3, h4, h5 {font-weight: normal;}
+h1, h2, h3, h4, h5 {
+  font-weight: normal;
+}
 
 h1 {
   font-size: 24px;
@@ -62,6 +64,10 @@ ul {
 ul li{
   list-style: none;
   line-height: 2.5em;
+}
+
+.profile-pic img{
+  max-width: 100px;
 }
 
 #shapes {margin-top: 30px;}
