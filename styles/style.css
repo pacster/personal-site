@@ -20,8 +20,8 @@ body {
 
 .main {
   padding-top: 20px;
-  width: 90%;
-  margin: 0 auto;
+  max-width: 540px;
+  margin: 0 40px;
 }
 
 b {
